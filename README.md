@@ -27,7 +27,7 @@ where I do hands-on IT support and workstation administration.
 <h2 align="center">Currently</h2>
 
 <p align="center">
-  <a href="https://roadmap.sh/git-github"><img src="https://img.shields.io/badge/Mastering-Git%20%26%20GitHub%20-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Currently learning Git and GitHub through roadmap.sh" /></a>
+  <a href="https://roadmap.sh/git-github"><img src="https://img.shields.io/badge/Mastering-Git%20%26%20GitHub%20-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Currently learning Git and GitHub through roadmap.sh" /></a> <br>
   <a href="https://www.coursera.org/professional-certificates/google-it-support"><img src="https://img.shields.io/badge/Learning-Google%20IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" alt="Currently learning Google IT Support" /></a> <br>
   <img src="assets/google-it.png" height="150" alt="Techem" />
 </p>
