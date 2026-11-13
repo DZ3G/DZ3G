@@ -12,8 +12,8 @@ I study at **ESGI** (Bac+3, work-study) and learn by building. My notes and prac
 ![](https://skillicons.dev/icons?i=py,c,js,html,css,php,git,linux)
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/berrached-mohammed-aa4a75364)
-
+## Contact
+[LinkedIn](https://linkedin.com/in/berrached-mohammed-aa4a75364) · ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 
 
 
 
