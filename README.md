@@ -5,15 +5,13 @@ First-year student at <b>ESGI Paris</b> and apprentice at <b>Techem</b>,<br>
 where I do hands-on IT support and workstation administration.
 </p>
 
-<p align="center">
-I'm 19 and based in Paris. I split my week between ESGI and Techem,<br>
-where I support and administer workstations. I started with C and Python,<br>
-then moved into networking and systems, and I learn best by building<br>
-and breaking things in real environments.<br>
-I speak French, Arabic and English.
-</p>
-
 <h2 align="center">What I do</h2>
+
+<p align="center">
+  <a href="https://www.esgi.fr/"><img src="assets/esgi.png" height="120" alt="ESGI Paris" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.techem.com/fr/fr"><img src="assets/techem.png" height="80" alt="Techem" /></a>
+</p>
 
 <p align="center">
 🎓 <b>School:</b> ESGI Paris, first year, work-study<br>
@@ -23,13 +21,14 @@ I speak French, Arabic and English.
 <h2 align="center">Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,php,mysql,git,github,vscode" height="36" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=c,py,php,mysql,git,github,vscode" height="48" alt="Tools" />
 </p>
 
 <h2 align="center">Currently</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20learning-Google%20IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Currently learning Google IT Support" />
+  <img src="https://img.shields.io/badge/Currently%20learning-Google%20IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" alt="Currently learning Google IT Support" /> <br>
+  <img src="assets/google-it.png" height="150" alt="Techem" />
 </p>
 
 <p align="center">
