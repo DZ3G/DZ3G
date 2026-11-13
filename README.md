@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Moh 👋</h1>
-
-<p align="center">
+<h1 align="center">
 First-year student at <b>ESGI Paris</b> and apprentice at <b>Techem</b>,<br>
 where I do hands-on IT support and workstation administration.
-</p>
+</h1>
 
 <h2 align="center">What I do</h2>
 
