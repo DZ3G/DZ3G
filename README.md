@@ -1,4 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Moh 👋</h1>
+<p align="center">Systems & Networks apprentice in Paris · ESGI × Techem</p>
+
+I study at **ESGI** (Bac+3, work-study) and learn by building. My notes and practice are public.
+
+## Right now
+- 🔧 Git and GitHub, practiced in real repos
+- 🌐 Networking (CCNA path)
+- 💻 C and algorithms at school
+
+## Stack
+![](https://skillicons.dev/icons?i=py,c,js,html,css,php,git,linux)
+
+## Contact
+[LinkedIn](https://linkedin.com/in/berrached-mohammed-aa4a75364)
+
+
+
 
 <!--
 **DZ3G/DZ3G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
