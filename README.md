@@ -8,7 +8,7 @@ where I do hands-on IT support and workstation administration.
 <h2 align="center">What I do</h2>
 
 <p align="center">
-  <a href="https://www.esgi.fr/"><img src="assets/esgi.png" height="120" alt="ESGI Paris" /></a>
+  <a href="https://www.esgi.fr/"><img src="assets/ESGI.png" height="120" alt="ESGI Paris" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.techem.com/fr/fr"><img src="assets/techem.png" height="80" alt="Techem" /></a>
 </p>
