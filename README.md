@@ -1,33 +1,15 @@
-<h1 align="center">Hi, I'm Moh 👋</h1>
-<p align="center">Systems & Networks Administrator apprentice at <b>Techem</b> · Real IT support and workstation administration · <b>ESGI Paris</b></p>
+# Hi, I'm Moh 👋
 
-## 📚 Currently learning
-- Git and GitHub, practiced in real repos (roadmap.sh)
-- Networking: CCNA path
-- C and algorithms (ESGI)
-- SQL and data modelling (ESGI)
+First-year student at **ESGI Paris** and apprentice at **Techem**, where I do hands-on IT support and workstation administration.
 
-## 🏅 Certifications
-| Certification | Status |
-|---|---|
-| CCNA | 🟡 In progress (exam target: June 2027) |
-| AZ-900 Azure Fundamentals | ⚪ Planned (January 2027) |
-| CompTIA Security+ | ⚪ Planned (by September 2027) |
+## What I do
+- 🎓 **School:** ESGI Paris, first year, work-study
+- 💼 **Work:** Techem, Systems & Networks apprentice
 
-## 🛠 Personal projects
-- [**DevLog**](https://github.com/DZ3G/DevLog): Python / Flask / SQLite app with user accounts, sessions and hashed passwords
-- [**flappy-bird-AI**](https://github.com/DZ3G/flappy-bird-AI): a Flappy Bird player trained with the NEAT algorithm in Python
-- [**to-do-list**](https://github.com/DZ3G/to-do-list): to-do app in plain HTML, CSS and JavaScript
-- [**Gro-code**](https://github.com/DZ3G/Gro-code): app that scores code efficiency using the Groq API
-- [**Learn-python-0-to-1**](https://github.com/DZ3G/Learn-python-0-to-1): my Python learning log
+## Currently
+![Currently learning](https://img.shields.io/badge/Currently%20learning-Google%20IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## 🎓 School projects (ESGI)
-- **Excel VBA automation:** a macro that takes a ticket CSV and computes SLAs automatically
-- **PHP web project**
-- **UI/UX mockups in Figma** (in progress)
-
-## Stack
-![](https://skillicons.dev/icons?i=py,c,js,html,css,php,git,linux)
+🎯 *Challenging myself to take the **CCNA** in 2027.*
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/berrached-mohammed-aa4a75364)
