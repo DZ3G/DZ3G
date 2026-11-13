@@ -1,7 +1,7 @@
-<h1 align="center">
+<h3 align="center">
 First-year student at <b>ESGI Paris</b> and apprentice at <b>Techem</b>,<br>
 where I do hands-on IT support and workstation administration.
-</h1>
+</h3>
 
 <h2 align="center">What I do</h2>
 
