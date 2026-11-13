@@ -13,7 +13,10 @@ I study at **ESGI** (Bac+3, work-study) and learn by building. My notes and prac
 
 ## Contact
 ## Contact
-[LinkedIn](https://linkedin.com/in/berrached-mohammed-aa4a75364) · ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) 
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/berrached-mohammed-aa4a75364)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:berrachedmohammed11@gmail.com)
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](add-channel-link) -->
 
 
 
